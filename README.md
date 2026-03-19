@@ -540,6 +540,7 @@ List keys:
 * [patachance](https://github.com/Houston4444/Patchance) - Jack Patchbay GUI.
 * [qjackctl](http://qjackctl.sourceforge.net) - User interface for controlling the JACK sound server ([◼](https://packages.debian.org/sid/qjackctl))
 * [qjackrcd](http://qjackrcd.sourceforge.net) - Qt4 application to record JACK server outputs ([◼](https://packages.debian.org/sid/qjackrcd))
+* [RaySession](https://github.com/Houston4444/RaySession) - Session manager for linux musical programs.
 * [rotter](http://www.aelius.com/njh/rotter/) - JACK client for transmission recording and audio logging ([◼](https://packages.debian.org/sid/rotter))
 * [studio-controls](https://github.com/ovenwerks/studio-controls) - small application to allow setting up audio for semi-pro audio work.
 * [zita-mu1](http://kokkinizita.linuxaudio.org/linuxaudio/zita-mu1-doc/quickguide.html) - organise stereo monitoring for Jack Audio Connection Kit ([◼](https://packages.debian.org/sid/zita-mu1))
