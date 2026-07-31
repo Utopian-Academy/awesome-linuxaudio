@@ -854,7 +854,6 @@ _Sample segmentation, analysis, programmable editors._
 * [LinuxSynths](https://www.linuxsynths.com/) - some of the software synthesizers available for Linux.
 * [awesome-juce](https://github.com/sudara/awesome-juce) - A curated list of JUCE modules, templates and plugins
 * [Wine-VST](https://github.com/Sangeppato/wine-vst) - Some VSTs tested under Linux with Wine and LinVst.
-* [Alsa Opensrc Org](https://alsa.opensrc.org/) - Independent ALSA and linux audio support site ([Markdown export](https://github.com/markc/alsa))
 * [Fedora packages for Music/Audio](https://audinux.github.io/packages/index.html)
 
 ### Documentation/Blogs
